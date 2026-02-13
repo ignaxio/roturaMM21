@@ -2,3 +2,4 @@
 # Compilados
 *.ex5
 ./idea/
+./idea/*
